@@ -70,11 +70,11 @@ public class Session1 {
 		//No 10
 		System.out.println("\nNo. 10");
 		double track = 14 / 1.6;
-		double time = 45.5;
+		double time = 45.5 / 60;
 		
 		double averageSpeed = track / time;
 		
-		System.out.println("Average speed of runner is " + averageSpeed + " Miles/Minute");
+		System.out.println("Average speed of runner is " + averageSpeed + " Miles/Hour");
 		
 		//No 11
 		System.out.println("\nNo. 11");
