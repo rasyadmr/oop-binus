@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Rasyad
+ *
+ */
+module Training {
+}
